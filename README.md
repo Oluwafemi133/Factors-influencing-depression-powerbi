@@ -16,3 +16,5 @@ Screenshots below
 
 ## Tools
 Power BI, DAX
+![Overview](Annotation%202026-11-09%2011001.png)
+![Detailed](Annotation%202026-11-09%20191212-1.png)
